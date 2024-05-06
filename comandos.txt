@@ -1,0 +1,7 @@
+
+-----para iniciar el proyecto
+npm run dev
+php artisan reverb:start
+
+-----para correr un comando
+php artisan send:message 
